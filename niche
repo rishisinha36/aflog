@@ -1,0 +1,71 @@
+[
+        {
+            name: "fashion",
+            parts: ["fashion", "model", "lifestyle"]
+        },
+        {
+            name: "actor",
+            parts: ["actor", "celebrity"]
+        },
+        
+        {
+            name: "arts & entertainment",
+            parts: ["arts & entertainment", "entertainment"]
+        },
+        {
+            name: "art",
+            parts: ["art", "painting", "drawing"]
+        },
+        {
+            name: "appliance repair service",
+            parts: ["appliance repair service", "appliance"]
+        },
+        {
+            name: "sports",
+            parts: ["sports", "sport", "cricket", "cricketer", "football","athlete"]
+        },
+        {
+            name: "apartment & condo building",
+            parts: ["apartment & condo building", "apartment", "condo"]
+        },
+        {
+            name: "automotive repair shop",
+            parts: ["automotive repair shop", "automotive"]
+        },
+        {
+            name: "beauty",
+            parts: ["beauty", "cosmetic", "personal care", "salon"]
+        },
+        {
+            name: "health",
+            parts: ["doctor", "hospital"]
+        },
+        {
+            name: "blog",
+            parts: ["blog", "blogger","vlogger"]
+        },
+        {
+            name: "hotel",
+            parts: ["hotel", "restaurant"]
+        },
+        {
+            name: "author",
+            parts: ["writer", "author", "book"]
+        },
+        {
+            name: "game",
+            parts: ["game", "gamer", "pubg", "games"]
+        },
+        {
+            name: "food & drink",
+            parts: ["food", "drink", "bar ","food blogger","food vlogger"]
+        },
+        {
+            name: "music",
+            parts: ["music", "song","singer"]
+        },
+        {
+            name: "dance & performance",
+            parts: ["dance", "performance","dancer"]
+        },
+    ]
